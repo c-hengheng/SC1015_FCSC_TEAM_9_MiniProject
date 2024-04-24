@@ -2,13 +2,16 @@
 
 Analysis of the various factors affecting salaries of Data Science Job Salaries
 
+
 About the Project:
 
 This is a simple, exploratory project on attempting to analyse the factors on affecting salaries . The data set is the Data Science Job Salaries 2024 
 
+
 About the Team:
 
 Naveen Benakappa Tusshar and Ng Cheng Heng have worked together on the code, slides and presentation
+
 
 Salary Analysis:
 
@@ -22,9 +25,11 @@ Experience Level
 
 Work Year
 
+
 Salary Correlation
 
 We have used a heat map to provide a better visualisation of the relationships between the different predictors and response
+
 
 Prediction
 
