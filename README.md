@@ -5,7 +5,9 @@ Analysis of the various factors affecting salaries of Data Science Job Salaries
 
 About the Project:
 
-This is a simple, exploratory project on attempting to analyse the factors on affecting salaries . The data set is the Data Science Job Salaries 2024 
+This is a simple, exploratory project on attempting to analyse the factors on affecting salaries . The data set is the Data Science Job Salaries 2024 from Kaggle 
+
+Website: https://www.kaggle.com/datasets/abhinavshaw09/data-science-job-salaries-2024/data
 
 
 About the Team:
